@@ -1,7 +1,7 @@
 # Evuloc
 zeigt dir, was zu dir passt.
 
-!(werkstudentin.png)[werkstudentin.png]
+![Introduction Picture](werkstudentin.png)
 
 Events, die dich wirklich interessieren.
 Nachhaltig, lokal und genau auf dich zugeschnitten.
