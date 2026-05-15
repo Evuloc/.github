@@ -9,7 +9,7 @@ Viele Events sind aktuell über einzelne Gemeindewebseiten, Vereinsportale oder 
 
 📲 **Folge uns für Updates und mehr:**  
 - **[Instagram](https://www.instagram.com/evuloc)** – Einblicke hinter die Kulissen von Evuloc und unserer Arbeit.  
-- **[LinkedIn]([https://www.linkedin.com/company/deinusername](https://www.linkedin.com/company/euvloc)** – Vernetze dich mit uns und bleib über unsere Fortschritte auf dem Laufenden.  
+- **[LinkedIn](https://www.linkedin.com/company/euvloc)** – Vernetze dich mit uns und bleib über unsere Fortschritte auf dem Laufenden.  
 
 ---
 
